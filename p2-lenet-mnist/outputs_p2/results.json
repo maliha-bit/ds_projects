@@ -1,0 +1,10 @@
+{
+  "LeNet5": {
+    "params": 61706,
+    "final_test_acc": 0.9873
+  },
+  "ModernCNN": {
+    "params": 544522,
+    "final_test_acc": 0.9912
+  }
+}
