@@ -1,0 +1,5 @@
+id,date,amount,category,note
+1,2026-11-08,250.0,food,lunch
+2,2026-11-08,1200.0,transport,bus pass
+3,2026-11-08,500.0,study,online course
+4,2026-11-08,150.0,food,dinner
