@@ -1,0 +1,5 @@
+model,cv_r2,test_r2,test_mae,test_rmse
+RandomForest,0.8056,0.806,0.3268,0.5042
+GradientBoosting,0.7881,0.7756,0.3717,0.5422
+Ridge,0.6115,0.5758,0.5332,0.7456
+LinearRegression,0.6115,0.5758,0.5332,0.7456
