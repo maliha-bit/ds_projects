@@ -1,0 +1,19 @@
+# Python Project: CSV Explorer + Baseline Model (Streamlit)
+
+A web app where you upload any CSV file, explore it, and train a quick baseline model in one click.
+
+## Features
+- **Overview**: rows, columns, missing values, data types, summary statistics
+- **Plots**: histogram of numeric columns, top values of categorical columns, scatter plot
+- **Correlation**: color-coded correlation table
+- **Baseline model**: choose a target column; the app automatically picks classification or regression, trains a Random Forest, and shows accuracy or R2 with the top feature importances
+
+## How to run
+```
+pip install -r requirements.txt
+streamlit run p6_csv_explorer_app.py
+```
+Then upload any CSV (for example `books.csv` from the book scraper project).
+
+## Skills shown
+Streamlit app building, exploratory data analysis, automatic problem-type detection, scikit-learn Random Forest.

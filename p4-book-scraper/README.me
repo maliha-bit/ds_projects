@@ -1,0 +1,23 @@
+# Python Project: Book Scraper and Price Analysis
+
+A web scraping and data analysis pipeline. It collects book data from [books.toscrape.com](https://books.toscrape.com) (a public site made for scraping practice), cleans it with pandas, and analyses how price relates to star rating.
+
+## What it does
+- Scrapes title, price, star rating and stock status with `requests` and `BeautifulSoup`.
+- Handles request errors and waits between requests to be polite to the server.
+- Cleans the data (extracts numeric prices, converts rating words to numbers, removes duplicates).
+- Saves `books.csv` and produces a price histogram and an average-price-by-rating chart.
+
+## Output
+- `books.csv`: the cleaned dataset
+- `outputs_p4/`: summary table and charts
+
+## How to run
+```
+pip install -r requirements.txt
+python p4_book_scraper_analysis.py --pages 10
+```
+Use `--pages 50` to scrape all 1,000 books.
+
+## Skills shown
+Web scraping, data cleaning with pandas, grouping and aggregation, data visualization with matplotlib.
