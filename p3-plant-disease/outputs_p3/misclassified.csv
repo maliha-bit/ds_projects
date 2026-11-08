@@ -1,0 +1,132 @@
+file,true,predicted
+data/PlantVillage/train\Apple___Apple_scab\6dd6a502-d5b3-4f3d-9231-e7dbd7b54908___FREC_Scab 2937.JPG,Apple___Apple_scab,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___Apple_scab\ac3ae45a-aaff-44c0-979d-6a2a8ba50ccf___FREC_Scab 3520.JPG,Apple___Apple_scab,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___Apple_scab\6344cfa8-2c26-4498-b366-817d56285212___FREC_Scab 2964.JPG,Apple___Apple_scab,Blueberry___healthy
+data/PlantVillage/train\Apple___Apple_scab\b98c71e9-79a0-4e8d-9c8d-0438c4fe8a57___FREC_Scab 2948.JPG,Apple___Apple_scab,Tomato___Tomato_mosaic_virus
+data/PlantVillage/train\Apple___Apple_scab\5fcb921d-3329-443c-a708-37c3943f5493___FREC_Scab 2987.JPG,Apple___Apple_scab,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___Black_rot\953017bf-0b57-4fd9-a696-3fb00aa84c24___JR_FrgE.S 8590.JPG,Apple___Black_rot,Cherry_(including_sour)___healthy
+data/PlantVillage/train\Apple___Cedar_apple_rust\290ad123-7702-4219-9773-17e07f22438c___FREC_C.Rust 4444.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab
+data/PlantVillage/train\Apple___Cedar_apple_rust\3b1e5132-71dd-4e75-b04a-513a3851ca02___FREC_C.Rust 4439.JPG,Apple___Cedar_apple_rust,Orange___Haunglongbing_(Citrus_greening)
+data/PlantVillage/train\Apple___Cedar_apple_rust\27d7abba-647b-4f0c-aa4a-3978dccd4f5b___FREC_C.Rust 4092.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___Cedar_apple_rust\60ecab05-90df-45d5-8a50-edb8635aac87___FREC_C.Rust 4155.JPG,Apple___Cedar_apple_rust,Apple___Apple_scab
+data/PlantVillage/train\Apple___Cedar_apple_rust\40761a05-eac1-44d2-b543-7e83ee6507ba___FREC_C.Rust 3556.JPG,Apple___Cedar_apple_rust,Cherry_(including_sour)___healthy
+data/PlantVillage/train\Apple___Cedar_apple_rust\de0d25d1-eb08-4b9a-ac44-07d755d1fca0___FREC_C.Rust 9856.JPG,Apple___Cedar_apple_rust,Tomato___Late_blight
+data/PlantVillage/train\Apple___Cedar_apple_rust\3e123b1b-a57d-4689-8211-e270c19fd4a9___FREC_C.Rust 9962.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___Cedar_apple_rust\a3bfb6c7-1f1e-407a-a2cf-40b316896185___FREC_C.Rust 9819.JPG,Apple___Cedar_apple_rust,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Apple___healthy\303603ae-edae-45ba-914d-ab522db7089b___RS_HL 7400.JPG,Apple___healthy,Peach___healthy
+data/PlantVillage/train\Apple___healthy\98834a65-1043-4c21-b06e-5f625274b0c4___RS_HL 6267.JPG,Apple___healthy,Potato___healthy
+data/PlantVillage/train\Apple___healthy\1ee2a8ac-77e7-4799-bff1-be48e8aa9ae5___RS_HL 7303.JPG,Apple___healthy,Blueberry___healthy
+data/PlantVillage/train\Apple___healthy\d81744f3-b4a1-4343-b956-7975fe630b83___RS_HL 7343.JPG,Apple___healthy,Cherry_(including_sour)___healthy
+data/PlantVillage/train\Apple___healthy\81dd861f-5c83-41f3-8aa2-2abbb94ed9f5___RS_HL 7325.JPG,Apple___healthy,Tomato___Late_blight
+data/PlantVillage/train\Apple___healthy\b7e9a2ff-31e8-4ddc-b739-17a8889715e7___RS_HL 6285.JPG,Apple___healthy,Soybean___healthy
+data/PlantVillage/train\Apple___healthy\e2cce5a6-04a9-436d-8e56-3bf4979b47bc___RS_HL 5886.JPG,Apple___healthy,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Blueberry___healthy\1e6cad77-e0db-452f-9781-b45d18b465cd___RS_HL 5304.JPG,Blueberry___healthy,Potato___healthy
+data/PlantVillage/train\Cherry_(including_sour)___Powdery_mildew\062e83b3-baee-4d36-9b62-6d2a19938027___FREC_Pwd.M 0314.JPG,Cherry_(including_sour)___Powdery_mildew,Potato___healthy
+data/PlantVillage/train\Cherry_(including_sour)___Powdery_mildew\42ce6a15-e155-4865-b71b-2516e462dfe6___FREC_Pwd.M 4882.JPG,Cherry_(including_sour)___Powdery_mildew,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Cherry_(including_sour)___Powdery_mildew\26cdf0b5-906d-4341-a07b-d8d9ec21cda7___FREC_Pwd.M 5151.JPG,Cherry_(including_sour)___Powdery_mildew,Potato___healthy
+data/PlantVillage/train\Cherry_(including_sour)___Powdery_mildew\2edb2db6-cf09-435a-a6cf-0be88fa6a433___FREC_Pwd.M 0300.JPG,Cherry_(including_sour)___Powdery_mildew,Potato___healthy
+data/PlantVillage/train\Cherry_(including_sour)___healthy\472fd482-aec7-4e73-86d1-7161f6a5024b___JR_HL 4178.JPG,Cherry_(including_sour)___healthy,Potato___healthy
+data/PlantVillage/train\Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot\a0c8342a-b9ca-4604-a2b0-7000bf7cdad2___RS_GLSp 4343.JPG,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn_(maize)___Northern_Leaf_Blight
+data/PlantVillage/train\Corn_(maize)___Northern_Leaf_Blight\fae01c0a-db82-4189-9193-bdad09ede531___RS_NLB 4165 copy.jpg,Corn_(maize)___Northern_Leaf_Blight,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+data/PlantVillage/train\Grape___Esca_(Black_Measles)\3d48745c-6fd1-49d9-877d-a18d84a20faa___FAM_B.Msls 3994.JPG,Grape___Esca_(Black_Measles),"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\774c7133-c768-4a72-8add-c4368c029cfe___FAM_L.Blight 1655.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Grape___Leaf_blight_(Isariopsis_Leaf_Spot)\996560b8-816d-486d-af99-7777c85ec89d___FAM_L.Blight 4835.JPG,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Strawberry___Leaf_scorch
+data/PlantVillage/train\Orange___Haunglongbing_(Citrus_greening)\7fab55d2-1d46-4503-b8ea-a0108e805ccc___CREC_HLB 6829.JPG,Orange___Haunglongbing_(Citrus_greening),"Pepper,_bell___healthy"
+data/PlantVillage/train\Orange___Haunglongbing_(Citrus_greening)\4276c323-6dc8-4ba3-8de3-3933c0bbe60a___UF.Citrus_HLB_Lab 1013.JPG,Orange___Haunglongbing_(Citrus_greening),"Pepper,_bell___healthy"
+data/PlantVillage/train\Peach___Bacterial_spot\ddfcd3f7-34ee-4f06-902d-4dea67abc27f___Rutg._Bact.S 1503.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Peach___Bacterial_spot\e6233e12-7ca6-4fb1-941f-804b5f48f389___Rutg._Bact.S 2335.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Peach___Bacterial_spot\f51d0529-b089-4d5b-af63-340b6b9f5b5e___Rutg._Bact.S 1570.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Peach___Bacterial_spot\55aeaf04-31be-460f-98d2-3effe3f03243___Rut._Bact.S 1210.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Peach___Bacterial_spot\87d23ba9-ca2f-4769-9ab1-4afc78d01a98___Rutg._Bact.S 1629.JPG,Peach___Bacterial_spot,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Peach___Bacterial_spot\a62cdafe-d347-47b9-bf4e-7ebebe13ecac___Rutg._Bact.S 2303.JPG,Peach___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+"data/PlantVillage/train\Pepper,_bell___Bacterial_spot\ca2cf355-2e1f-4353-b541-7079b06a5893___JR_B.Spot 3117.JPG","Pepper,_bell___Bacterial_spot",Potato___Early_blight
+"data/PlantVillage/train\Pepper,_bell___Bacterial_spot\378ed86f-f435-44e8-93b3-3e05aa569492___JR_B.Spot 8864.JPG","Pepper,_bell___Bacterial_spot",Potato___healthy
+"data/PlantVillage/train\Pepper,_bell___healthy\6f13ae9f-a9e0-46e3-8e5a-445c4f16898a___JR_HL 8283.JPG","Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+"data/PlantVillage/train\Pepper,_bell___healthy\f24f1078-123e-4c89-bba8-2e1f7cf264bb___JR_HL 8196.JPG","Pepper,_bell___healthy",Potato___healthy
+"data/PlantVillage/train\Pepper,_bell___healthy\d53487cf-1f9c-464a-bf4e-aff3277e85b3___JR_HL 7885.JPG","Pepper,_bell___healthy","Pepper,_bell___Bacterial_spot"
+"data/PlantVillage/train\Pepper,_bell___healthy\01468dda-44f3-4de8-8aed-948bcc29b719___JR_HL 8704.JPG","Pepper,_bell___healthy",Potato___healthy
+data/PlantVillage/train\Potato___Early_blight\4d5d6c62-61d8-45a3-aada-3ee8bc44e1d5___RS_Early.B 6685.JPG,Potato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Potato___Early_blight\e912f95d-d159-47bc-b1ed-f0f08c3c391d___RS_Early.B 8366.JPG,Potato___Early_blight,Potato___healthy
+data/PlantVillage/train\Potato___Early_blight\5fa695b2-89f6-4c5e-b62f-2be61e2ad23a___RS_Early.B 7232.JPG,Potato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Potato___Late_blight\df0f75cf-febd-4fde-84a0-7c4da9f97fd2___RS_LB 2534.JPG,Potato___Late_blight,Potato___healthy
+data/PlantVillage/train\Potato___Late_blight\01270f5c-a44b-4da7-9398-289088c197ab___RS_LB 2517.JPG,Potato___Late_blight,Potato___healthy
+data/PlantVillage/train\Potato___Late_blight\f3ee2886-4ada-4287-94b6-c4c93005b887___RS_LB 4352.JPG,Potato___Late_blight,Tomato___Late_blight
+data/PlantVillage/train\Potato___Late_blight\ecfc161f-11f6-449f-80c1-1b0254f5179a___RS_LB 4279.JPG,Potato___Late_blight,Potato___healthy
+data/PlantVillage/train\Potato___Late_blight\f477f5a9-90cf-416b-8a3d-782ea2365c9f___RS_LB 3884.JPG,Potato___Late_blight,Tomato___Late_blight
+data/PlantVillage/train\Potato___healthy\36bdc44c-96a4-40bb-86f7-63a91d706e96___RS_HL 4203.JPG,Potato___healthy,Blueberry___healthy
+data/PlantVillage/train\Raspberry___healthy\b1a516b2-f06e-4ed8-b402-493f65d9ab9f___Mary_HL 6237.JPG,Raspberry___healthy,Cherry_(including_sour)___healthy
+data/PlantVillage/train\Soybean___healthy\f9806fd0-bd4e-4865-8dad-67809aef795d___RS_HL 3990.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Soybean___healthy\1f3b733b-d794-4a39-8efb-e89fc1395598___RS_HL 3363.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Soybean___healthy\97844895-a84d-4b24-acaf-86edd9c5e1dc___RS_HL 5786.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Soybean___healthy\4118f97d-5d7a-4142-865a-51000813e0cc___RS_HL 4084.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Soybean___healthy\5ba53ce5-526c-4aa1-a32e-8e88f5f63ba2___RS_HL 4255.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Soybean___healthy\c8c6e3cd-ed78-4f67-b754-50cf3305f896___RS_HL 7336.JPG,Soybean___healthy,Potato___healthy
+data/PlantVillage/train\Squash___Powdery_mildew\dcfd7b0a-6f74-4e00-a247-ff573c9289f4___MD_Powd.M 0040.JPG,Squash___Powdery_mildew,Apple___Apple_scab
+data/PlantVillage/train\Squash___Powdery_mildew\1ef0cfca-6861-48ef-9a3f-3fc8b7d32999___MD_Powd.M 9899.JPG,Squash___Powdery_mildew,Apple___Apple_scab
+data/PlantVillage/train\Squash___Powdery_mildew\cd1bf852-4ba3-414c-b708-a74018c22012___UMD_Powd.M 0638.JPG,Squash___Powdery_mildew,Tomato___healthy
+data/PlantVillage/train\Squash___Powdery_mildew\537b3520-5c76-421f-b58b-6817fa1d38c1___UMD_Powd.M 0665.JPG,Squash___Powdery_mildew,Tomato___Late_blight
+data/PlantVillage/train\Squash___Powdery_mildew\8f3fb9a7-d546-4de6-9f04-a778a0358a97___UMD_Powd.M 0046.JPG,Squash___Powdery_mildew,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Squash___Powdery_mildew\e6234865-528b-44e1-a6c6-383b25750fce___MD_Powd.M 9979.JPG,Squash___Powdery_mildew,Apple___Apple_scab
+data/PlantVillage/train\Squash___Powdery_mildew\f6bf8f01-6d9e-4be7-ac9c-136f9c895edb___UMD_Powd.M 0255.JPG,Squash___Powdery_mildew,Corn_(maize)___Common_rust_
+data/PlantVillage/train\Strawberry___Leaf_scorch\d952e020-d58a-414b-a9b2-c0203764904d___RS_L.Scorch 0888.JPG,Strawberry___Leaf_scorch,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Strawberry___Leaf_scorch\4e3d5499-017b-4de5-8087-d7f94caec399___RS_L.Scorch 9914.JPG,Strawberry___Leaf_scorch,Tomato___Early_blight
+data/PlantVillage/train\Strawberry___Leaf_scorch\6daf8783-ab4d-451e-8aaf-00e29b23e29a___RS_L.Scorch 0009.JPG,Strawberry___Leaf_scorch,Grape___Black_rot
+data/PlantVillage/train\Strawberry___Leaf_scorch\4b1e034b-d3c8-4db4-a105-258cbd1227fb___RS_L.Scorch 9906.JPG,Strawberry___Leaf_scorch,Tomato___Late_blight
+data/PlantVillage/train\Strawberry___Leaf_scorch\b8481213-d4a4-4c23-938e-86adeeece189___RS_L.Scorch 1237.JPG,Strawberry___Leaf_scorch,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Strawberry___healthy\59f517ea-070a-4d91-97bb-936c620bbeb5___RS_HL 4583.JPG,Strawberry___healthy,Blueberry___healthy
+data/PlantVillage/train\Strawberry___healthy\273a7a9e-18be-4b6a-976a-fa5ffd69b731___RS_HL 4366.JPG,Strawberry___healthy,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Bacterial_spot\797b134d-3511-4e24-8372-2a61507095af___GCREC_Bact.Sp 3143.JPG,Tomato___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Bacterial_spot\13affc42-3a89-4a99-97aa-98f41682a71e___UF.GRC_BS_Lab Leaf 0546.JPG,Tomato___Bacterial_spot,Tomato___Late_blight
+data/PlantVillage/train\Tomato___Bacterial_spot\d4e4f6a5-f887-48b1-83d5-44e6f834cab4___GCREC_Bact.Sp 6064.JPG,Tomato___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Bacterial_spot\a342423d-7c62-4fcd-a9c6-d92d586b5023___GCREC_Bact.Sp 3754.JPG,Tomato___Bacterial_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Bacterial_spot\6aa07949-08b2-4945-a535-3f8b49f86599___GCREC_Bact.Sp 6344.JPG,Tomato___Bacterial_spot,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Bacterial_spot\236e1153-9421-4a7a-bf51-e8e53f9ada22___UF.GRC_BS_Lab Leaf 0338.JPG,Tomato___Bacterial_spot,Tomato___Leaf_Mold
+data/PlantVillage/train\Tomato___Early_blight\24379205-969e-4cd0-9232-176c83364d60___RS_Erly.B 7617.JPG,Tomato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Early_blight\7e236dc3-40e2-4ff9-8356-4fb7a3fcc0ff___RS_Erly.B 6426.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+data/PlantVillage/train\Tomato___Early_blight\546af1f7-3d4f-4024-88b1-f981fea7f2dd___RS_Erly.B 9455.JPG,Tomato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Early_blight\1bdb9ab4-1a7a-449a-b848-c446d7615d42___RS_Erly.B 8443.JPG,Tomato___Early_blight,Potato___healthy
+data/PlantVillage/train\Tomato___Early_blight\d7e11d88-60e8-41d3-a840-2ad9bab04fe2___RS_Erly.B 6355.JPG,Tomato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Early_blight\16d79bd2-5c70-4e6b-a52a-0c578b501d04___RS_Erly.B 6446.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+data/PlantVillage/train\Tomato___Early_blight\8ac21e2c-f953-4e96-8d43-e82dae24017e___RS_Erly.B 7459.JPG,Tomato___Early_blight,Tomato___Leaf_Mold
+data/PlantVillage/train\Tomato___Early_blight\757b49d0-db8e-4352-820a-9f0bdb7d2657___RS_Erly.B 7748.JPG,Tomato___Early_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Late_blight\7a48f790-80f5-4d75-bd49-3c42e8c92fb6___RS_Late.B 4844.JPG,Tomato___Late_blight,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Late_blight\3bfcacdf-3d19-47c4-a52e-6d884dfc5e20___RS_Late.B 6651.JPG,Tomato___Late_blight,Tomato___Early_blight
+data/PlantVillage/train\Tomato___Late_blight\792a3e5e-d5f8-467d-a266-66834b4b7036___GHLB2 Leaf 129.1.JPG,Tomato___Late_blight,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Late_blight\92abc2a8-b18b-45f9-bf9a-c774cc040ac7___GHLB2 Leaf 149.2.JPG,Tomato___Late_blight,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Late_blight\16613329-813d-4d3d-9f44-e52c0ad72bb0___RS_Late.B 4980.JPG,Tomato___Late_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Late_blight\b6b9bd13-78ec-4e89-bbd7-a45d6a8ff3fb___RS_Late.B 6590.JPG,Tomato___Late_blight,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Leaf_Mold\b31c5c8a-aac0-4cad-af32-2b10e2fa64f6___Crnl_L.Mold 7053.JPG,Tomato___Leaf_Mold,Tomato___Tomato_mosaic_virus
+data/PlantVillage/train\Tomato___Leaf_Mold\3e7616df-52d8-43ef-9824-a77e82cdbf1a___Crnl_L.Mold 8777.JPG,Tomato___Leaf_Mold,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Leaf_Mold\f2a712d0-5d8c-4676-a0c3-732ef8ebc8f0___Crnl_L.Mold 8861.JPG,Tomato___Leaf_Mold,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Leaf_Mold\15b7a74c-2c9d-41e5-bcc6-799471cd8e43___Crnl_L.Mold 6616.JPG,Tomato___Leaf_Mold,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Leaf_Mold\9352c724-ec44-4955-a845-62577931d3db___Crnl_L.Mold 7013.JPG,Tomato___Leaf_Mold,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Leaf_Mold\a080e5aa-e54d-4e00-b09a-b896c712ea83___Crnl_L.Mold 6871.JPG,Tomato___Leaf_Mold,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Septoria_leaf_spot\90e53552-bfd0-4780-898c-1df4f15d4376___Matt.S_CG 6008.JPG,Tomato___Septoria_leaf_spot,Tomato___Early_blight
+data/PlantVillage/train\Tomato___Septoria_leaf_spot\0b23b869-cfa6-40d7-a683-f4637d91ebff___Matt.S_CG 1286.JPG,Tomato___Septoria_leaf_spot,Tomato___Bacterial_spot
+data/PlantVillage/train\Tomato___Septoria_leaf_spot\ffcd08b6-6533-422a-a365-271e11890f98___Matt.S_CG 2574.JPG,Tomato___Septoria_leaf_spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Spider_mites Two-spotted_spider_mite\245d8d65-da20-4d9e-9970-c3e6bbb08800___Com.G_SpM_FL 9624.JPG,Tomato___Spider_mites Two-spotted_spider_mite,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Target_Spot\30e99558-7eac-4fbc-a9dc-7f2af1d8ee23___Com.G_TgS_FL 0782.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Target_Spot\3015f64d-6fe8-4673-948a-9bdb854ce207___Com.G_TgS_FL 9972.JPG,Tomato___Target_Spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Target_Spot\d1ef60c4-6159-46f7-a497-c150becb8997___Com.G_TgS_FL 9733.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Target_Spot\64e3043e-d7d3-4d56-b1a1-3564aa1a45d2___Com.G_TgS_FL 8371.JPG,Tomato___Target_Spot,Tomato___Early_blight
+data/PlantVillage/train\Tomato___Target_Spot\f6dc8bc0-0f32-45dd-9836-38f89ac7e632___Com.G_TgS_FL 8357.JPG,Tomato___Target_Spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Target_Spot\451a25de-72b6-406f-9a70-c12787187fdd___Com.G_TgS_FL 8103.JPG,Tomato___Target_Spot,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Target_Spot\91309b38-027b-4983-b095-d6838cfc14d4___Com.G_TgS_FL 1091.JPG,Tomato___Target_Spot,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Target_Spot\e5ddbfad-a3f5-4700-bf35-f8ed4120d1ec___Com.G_TgS_FL 0922.JPG,Tomato___Target_Spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Target_Spot\17cc92e0-8ca2-4917-8a55-1c4eb0e66182___Com.G_TgS_FL 9857.JPG,Tomato___Target_Spot,Tomato___Tomato_mosaic_virus
+data/PlantVillage/train\Tomato___Target_Spot\87bd85f0-649b-4f89-8f86-35d15460520f___Com.G_TgS_FL 7933.JPG,Tomato___Target_Spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Target_Spot\a2c02a4d-ebcd-45cc-9bf1-77938e875712___Com.G_TgS_FL 0707.JPG,Tomato___Target_Spot,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\52427a54-ed33-4e61-a367-834552dc5fcc___YLCV_GCREC 1983.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\9aa335d3-ab63-4784-9fc3-21b2b6e6178b___YLCV_NREC 0059.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\c3818768-459d-489f-a415-89bb66f8111a___YLCV_GCREC 2239.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\3f2fd843-100d-4293-b675-cadc7ea8e67a___UF.GRC_YLCV_Lab 08478.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___Tomato_Yellow_Leaf_Curl_Virus\bae705f0-d149-474c-b6ee-f7d026dd0e5e___YLCV_NREC 2230.JPG,Tomato___Tomato_Yellow_Leaf_Curl_Virus,"Pepper,_bell___Bacterial_spot"
+data/PlantVillage/train\Tomato___Tomato_mosaic_virus\65226438-efaa-4bf4-91e7-e459e3528565___PSU_CG 2143.JPG,Tomato___Tomato_mosaic_virus,Tomato___Leaf_Mold
+data/PlantVillage/train\Tomato___healthy\839daf12-8d8b-478e-b214-2d5dd0fa509a___GH_HL Leaf 445.1.JPG,Tomato___healthy,Cherry_(including_sour)___healthy
+data/PlantVillage/train\Tomato___healthy\8398397b-eae0-4e7b-83ee-44c42c67a79c___RS_HL 0631.JPG,Tomato___healthy,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___healthy\e8d0f3de-312b-4316-aca4-798a51ebd423___GH_HL Leaf 520.1.JPG,Tomato___healthy,Potato___healthy
+data/PlantVillage/train\Tomato___healthy\cb3ab315-c340-469c-8291-abe02183b05a___RS_HL 0161.JPG,Tomato___healthy,Tomato___Septoria_leaf_spot
+data/PlantVillage/train\Tomato___healthy\c296246d-42ab-4274-9037-df2470e2d3a5___RS_HL 0085.JPG,Tomato___healthy,Tomato___Spider_mites Two-spotted_spider_mite
+data/PlantVillage/train\Tomato___healthy\1480b935-0081-4052-a7e8-09ef0040d9b5___GH_HL Leaf 338.JPG,Tomato___healthy,Potato___healthy
+data/PlantVillage/train\Tomato___healthy\bc0e8e3d-0cd4-4650-ac73-c099a0b75d4e___GH_HL Leaf 426.1.JPG,Tomato___healthy,Potato___healthy
+data/PlantVillage/train\Tomato___healthy\85487c92-0a3d-4dd9-a8f9-6d7b7e1887e6___RS_HL 9789.JPG,Tomato___healthy,Tomato___Spider_mites Two-spotted_spider_mite
